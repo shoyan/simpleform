@@ -4,12 +4,6 @@
  */
 require_once dirname(__FILE__) . '/validation.php';
 
-function クラス名()
-{
-}
-
-
-
 class Form 
 {
     // validationの内容を格納する
